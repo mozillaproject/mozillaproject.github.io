@@ -11,7 +11,7 @@
     
     "icons":{
         "36":"plogo.jpg"
-    }
+    },
 
 
     "content_script": [
