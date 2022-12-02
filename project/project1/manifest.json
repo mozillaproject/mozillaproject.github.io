@@ -1,0 +1,28 @@
+{
+
+    "manifest_version": 2,
+    "name": "Font Changer X",
+    "version":"1.0",
+    "author": "Jamar Jones, Bariat Shaoub",
+    
+    
+    "description":"Allows User to edit font within browser"
+    
+    
+    "icons":{
+        "36":"plogo.jpg"
+    }
+
+
+    "content_script": [
+      {
+        "js":["extension.js"]
+      },
+      
+      "permissions":[
+
+      ]
+
+}
+
+}
