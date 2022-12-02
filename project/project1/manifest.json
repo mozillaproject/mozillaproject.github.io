@@ -10,19 +10,13 @@
     
     
     "icons":{
-        "36":"plogo.jpg"
+        "64":"image/plogo.jpg"
     },
+      "permissions":["clipboardWrite","clipboardRead"],
+    "background":{
+        "scripts:" ["background_script.js"]
+        
+    }
 
-
-    "content_script": [
-      {
-        "js":["extension.js"]
-      },
-      
-      "permissions":[
-
-      ]
-
-}
-
+   }
 }
