@@ -2,4 +2,7 @@ body{
 height:100vh;
 width:100%;
 background-color: linear-gradient(90deg,#1B1A1C,#903FD8);
+color:#FFFFFF;
+text-align: center;
+margin:50%;
 }
