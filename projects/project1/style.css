@@ -1,0 +1,11 @@
+body{
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(90deg,#1B1A1C,#903FD8);
+}
+h1,p{
+  color:#ffffff;
+  text-align:center;
+  margin:50%;
+  padding:5%;
+}
